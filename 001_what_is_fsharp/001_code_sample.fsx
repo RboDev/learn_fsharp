@@ -1,6 +1,6 @@
 open System
 
-// Defins a list of names
+// Defines a list of names
 let names = [ "Peter"; "Julia"; "Xi" ]
 
 // Defines a function that takes a name and produces a greeting
